@@ -3,15 +3,15 @@
 本库是基于RecyclerView的封装。
 
 > **注意**：本库在1.1.0版做了全新升级，没有最1.0.x版本做向下兼容，但是新版在API使用和功能方面都是个全新的升级。使用旧版本的同学升级时需要把ReadMe和Demo认真看一遍。
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/a.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/b.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/c.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/d.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/e.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/q.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/w.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/x.jpg)
-![](https://github.com/yufeilong92/SwipeMenuRecyclerView/tree/master/img/z.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/a.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/b.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/c.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/d.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/e.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/q.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/w.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/x.jpg)
+![](https://github.com/yufeilong92/SwipeMenuRecyclerView/blob/master/img/z.jpg)
 # 特性
 1. 基于`List/Grid/StaggeredGrid`等`LayoutManager`的`Item`侧滑菜单。
 2. `Item`两侧侧滑菜单支持水平分布、垂直分布。
